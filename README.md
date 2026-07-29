@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Introduction to Machine Learning with Python
 
 <div align="center">
@@ -276,4 +275,4 @@ All implementations, notes, experiments, and projects are created as part of my 
 **Happy Learning! 🚀**
 
 </div>
-````
+
