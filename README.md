@@ -87,7 +87,7 @@ Each chapter contains:
 
 | Chapter | Progress |
 |----------|----------|
-| Chapter 1 — Introduction | 🟡 0% |
+| Chapter 1 — Introduction | 🟡 100% |
 | Chapter 2 — Supervised Learning | ⚪ 0% |
 | Chapter 3 — Unsupervised Learning | ⚪ 0% |
 | Chapter 4 — Data Representation | ⚪ 0% |
@@ -102,7 +102,7 @@ Each chapter contains:
 ```
 Book Progress
 
-□□□□□□□□□□ 0%
+□□□□□□□□□□ 12%
 ```
 
 Update this as you progress:
