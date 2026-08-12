@@ -47,7 +47,7 @@ The objective is to build a strong foundation before moving into Deep Learning, 
 
 # 📂 Repository Structure
 
-```text
+
 intro-to-ml-with-python/
 │
 ├── Chapter-01-Introduction/
@@ -71,7 +71,7 @@ intro-to-ml-with-python/
 ├── requirements.txt
 │
 └── README.md
-```
+
 
 Each chapter contains:
 
@@ -88,7 +88,7 @@ Each chapter contains:
 | Chapter | Progress |
 |----------|----------|
 | Chapter 1 — Introduction | 🟡 100% |
-| Chapter 2 — Supervised Learning | ⚪ 0% |
+| Chapter 2 — Supervised Learning | 🟡 100% |
 | Chapter 3 — Unsupervised Learning | ⚪ 0% |
 | Chapter 4 — Data Representation | ⚪ 0% |
 | Chapter 5 — Model Evaluation | ⚪ 0% |
@@ -99,15 +99,15 @@ Each chapter contains:
 
 # 📊 Overall Progress
 
-```
+
 Book Progress
 
 □□□□□□□□□□ 12%
-```
+
 
 Update this as you progress:
 
-```
+
 ■□□□□□□□□□ 10%
 
 ■■□□□□□□□□ 20%
@@ -117,7 +117,7 @@ Update this as you progress:
 ...
 
 ■■■■■■■■■■ 100%
-```
+
 
 ---
 
